@@ -6,12 +6,9 @@
 
 ---
 
-### Educational Background
-
 > I am from Turkey.
 >
 > I came Belgium 4 months ago.Now living in Antwerp. I graduated from University as _Environment Engineer_ but I worked as **Recruitment Specialist** in ICT companies. (So I am experienced to change my career path **_:))_** )
->
 >
 > You can see my GitHub in [here](https://github.com/harunaltunhr) (It is not good yet, but will be)
 >
